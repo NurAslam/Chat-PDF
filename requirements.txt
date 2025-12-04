@@ -2,3 +2,7 @@ langchain
 pypdf2
 python-dotenv
 streamlit
+langchain-openai
+langchain-text-splitters
+langchain-community
+faiss-cpu
